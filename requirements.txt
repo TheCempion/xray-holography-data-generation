@@ -1,0 +1,11 @@
+tqdm
+numpy
+torch
+torchvision
+matplotlib
+pandas
+scikit-image
+h5py
+bs4
+requests
+xraylib

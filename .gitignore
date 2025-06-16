@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!generate_data.sh
+!LICENSE
+!README.*
+!requirements.txt
+
+!holly
+!holly/**
