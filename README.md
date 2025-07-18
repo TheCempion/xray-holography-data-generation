@@ -2,10 +2,7 @@
 
 X-ray Holography Data Generation simulates X-ray illumination interacting with synthetic objects to generate flexible training or evaluation datasets. It uses a parallel beam approximation and propagates the resulting wave field over a customizable distance. Users can configure various parameters via config files, including X-ray energy, geometry, detector resolution, and more. The framework randomly generates phantoms with user-defined ranges for size, shape, thickness, material properties, absorption, and phase shift, ensuring physically consistent synthetic data.
 
-
-## Setup Project
-
-TODO
+This project was integrated into the [**HoloWizard**](https://github.com/DESY-FS-PETRA/holowizard/) package as [**HoloForge**](https://github.com/DESY-FS-PETRA/holowizard/tree/main/holowizard/forge).
 
 ## How to use this Framework
 
